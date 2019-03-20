@@ -15,7 +15,7 @@ UML的作用是将分析与设计的结果可视化。考试考：概念类图�
 二、项目管理实践
 
 1.看板使用练习
-![image](https://github.com/sunzh871041162/sunzh871041162.github.io/blob/master/kanban.png)
+![image](https://github.com/sunzh871041162/sunzh871041162.github.io/blob/master/kanban2.png)
 
 2.UML绘图工具练习
 UML和模式应用(第3版)  P111，图9-10：
