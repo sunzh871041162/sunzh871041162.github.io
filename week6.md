@@ -47,9 +47,10 @@
 选择2-3个你熟悉的类似业务的在线服务系统（或移动 APP），如定旅馆（携程、去哪儿等）、定电影票、背单词APP等，分别绘制它们用例图。
 
 美团外卖:
+![image](https://github.com/sunzh871041162/sunzh871041162.github.io/blob/master/%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96.png)
 
 南方航空：
-
+![image](https://github.com/sunzh871041162/sunzh871041162.github.io/blob/master/%E5%8D%97%E6%96%B9%E8%88%AA%E7%A9%BA.png)
 
 1.为什么相似系统的用例图是相似的？
 
@@ -65,5 +66,8 @@
 
 4.请使用 SCRUM 方法，选择一个用例图，编制某定旅馆开发的需求（backlog）开发计划表
 
+![image](https://github.com/sunzh871041162/sunzh871041162.github.io/blob/master/scrum.png)
 
 5.根据任务4，参考 使用用例点估算软件成本，给出项目用例点的估算
+
+![image](https://github.com/sunzh871041162/sunzh871041162.github.io/blob/master/%E4%BC%B0%E7%AE%97.png)
