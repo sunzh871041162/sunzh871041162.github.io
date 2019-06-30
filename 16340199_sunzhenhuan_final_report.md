@@ -21,10 +21,10 @@ SRS编写|5
 * 完成软件需求规格说明书的编写
 
 ## GIT统计报告:
-![]()
+![](https://github.com/sunzh871041162/sunzh871041162.github.io/blob/master/imgs/git.png)
 
 ## 个人博客清单:
-
+[使用Axure RP进行微信小程序的UI设计](https://github.com/sunzh871041162/sunzh871041162.github.io/blob/master/%E4%BD%BF%E7%94%A8Axure%20RP%E8%BF%9B%E8%A1%8C%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%9A%84UI%E8%AE%BE%E8%AE%A1.md)
 ## 特别致谢：
 * 感谢小组内每一位成员的辛勤劳动与付出，使得我们能够顺利地完成这个项目。
 * 特别感谢derry成员在软件开发过程中对我的帮助。
